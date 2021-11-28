@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="">
       
-      <main>
+      <main className="bg-black h-screen overflow-hidden">
         <Sidebar />
         {/* Center */}
       </main>
